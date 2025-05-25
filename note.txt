@@ -1,0 +1,13 @@
+->JavaScript execution Context
+->Global Execution Context
+->Function Execution Context
+->Eval Execution Context
+
+
+code execution
+->global execution
+->memory phase (creation of memory)
+->execution phase(new variable component +thread)
+
+
+->call stack
